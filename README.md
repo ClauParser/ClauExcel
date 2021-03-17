@@ -1,2 +1,2 @@
 # ClauExcel
-ClauParser + Excel ( C++ -> C# -> VBA )
+ClauParser + Excel ( C++ -> Python -> VBA )
